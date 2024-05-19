@@ -1,0 +1,12 @@
+# main links
+main:
+  #- title: "Home"
+  #  url: "/"
+  # - title: "Introduce"
+  #   url: /about/
+  # - title: "Category"
+  #   url: "/categories/"
+  - title: "Nuxt3"
+    url: "/nuxt3/"
+  # - title: "Tags"
+  #   url: /tags/

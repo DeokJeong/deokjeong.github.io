@@ -8,7 +8,5 @@ main:
   #   url: "/categories/"
   - title: "Nuxt3"
     url: "/nuxt3/"
-  - title: "Portfolio"
-    url: "/protfolio/"
-  # - title: "Tags"
-  #   url: /tags/
+  - title: "protfolio"
+    url: /protfolio/
